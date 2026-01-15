@@ -32,5 +32,14 @@
     "completed_at": 1768476885.367421,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768476944.00308,
+    "completed_at": 1768476946.673418,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
   }
 ]
